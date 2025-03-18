@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Bonjour, je suis BAHMOU LAHOUCINE !
 
-<!--
-**lahoucineBhm/lahoucineBhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Etudiant en Ingénierie réseaux et sécurité informatique
 
-Here are some ideas to get you started:
+Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadre de academique et de travaux personnels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  Mes Compétences
+
+### 🔹 Langages de Programmation
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)
+- SQL
+- React,HTML, CSS
+- Java ,**C**
+
+### réseau informatique
+- Addrissage: VLSM
+- Switching: VLAN , STP , VTP
+- Routing: RIP , OSPF
+
+### Securité informatique
+- 
+
+## 📩 Me Contacter  
+
+📧 [Email](mailto:bahmoulahoucine@gmail.com)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/lahoucine-bahmou-953b47299/)
+
+🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
+## 📌 Mes Projets 
+
+🔷 **📚 Data Scientist - OpenClassrooms / CentraleSupélec**  
+
+- 
+
+
+🔷 **📚 Les Projets Académiques**
+
+-- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+
+ 
