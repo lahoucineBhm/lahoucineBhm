@@ -21,6 +21,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 
 ### Securité informatique
 - ACL
+- IDS/IPS
 
 ## 📌 Certifications 
 -- [**Foundations of Cybersecurity**](https://www.coursera.org/account/accomplishments/verify/Z6RF0TH2QSCS)
