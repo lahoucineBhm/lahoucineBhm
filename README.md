@@ -20,7 +20,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 - Routing: RIP , OSPF
 
 ### Securité informatique
-- 
+- ACL
 
 ## 📌 Certifications 
 -- [**Foundations of Cybersecurity**](https://www.coursera.org/account/accomplishments/verify/Z6RF0TH2QSCS)
@@ -33,11 +33,6 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
 ## 📌 Mes Projets 
-
-🔷 **📚 Travaux Personnels.**  
-
-- 
-
 
 🔷 **📚 Les Projets Académiques**
 
