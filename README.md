@@ -34,7 +34,7 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 🚀 N'hésite pas à explorer mes projets et à me contacter pour toute opportunité ! 🚀  
 ## 📌 Mes Projets 
 
-🔷 **📚 Data Scientist - OpenClassrooms / CentraleSupélec**  
+🔷 **📚 Travaux Personnels.**  
 
 - 
 
