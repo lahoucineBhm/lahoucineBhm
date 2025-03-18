@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis BAHMOU LAHOUCINE !
 
-## 🏆 Etudiant en Ingénierie réseaux et sécurité informatique
+## Je suis un etudiant en Ingénierie réseaux et sécurité informatique
 
 Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadre de academique et de travaux personnels.
 
