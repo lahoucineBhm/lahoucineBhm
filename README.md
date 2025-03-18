@@ -38,6 +38,6 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 
 🔷 **📚 Les Projets Académiques**
 
--- [**📊 Projet 1 : La Construction un modèle de classification des actualités**](https://github.com/Abdelilah04116/fake-and-real-news-Classification-)
+-- [**Projet 1 : Minuteur d'Intervalles pour Entraînements Personnalisable en Python**](https://github.com/lahoucineBhm/Minuteur-d-Intervalles-pour-Entra-nements-Personnalisable-en-Python)
 
  
