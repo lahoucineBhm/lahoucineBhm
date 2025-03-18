@@ -22,6 +22,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 ### Securité informatique
 - 
 
+## 📌 Certifications 
+-- [**Foundations of Cybersecurity**](https://www.coursera.org/account/accomplishments/verify/Z6RF0TH2QSCS)
+
 ## 📩 Me Contacter  
 
 📧 [Email](mailto:bahmoulahoucine@gmail.com)  
