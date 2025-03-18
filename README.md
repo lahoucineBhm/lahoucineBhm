@@ -39,5 +39,5 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 🔷 **📚 Les Projets Académiques**
 
 -- [**Projet 1 : Minuteur d'Intervalles pour Entraînements Personnalisable en Python**](https://github.com/lahoucineBhm/Minuteur-d-Intervalles-pour-Entra-nements-Personnalisable-en-Python)
-
+-- [**Projet 2 : LabConnect**](https://github.com/IlyasMAJDOUBI/LabConnect)
  
