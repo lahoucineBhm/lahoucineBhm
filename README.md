@@ -41,5 +41,4 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 
 -- [**Projet 2 : LabConnect**](https://github.com/IlyasMAJDOUBI/LabConnect)
 
--- [**Projet : Secure Smart Home**](https://github.com/lahoucineBhm/Secure-Smart-Home)
  
