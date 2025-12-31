@@ -43,7 +43,9 @@ Bienvenue sur mon GitHub ! Ici, tu trouveras mes projets réalisés dans le cadr
 
 ## 📌 Certifications 
 -- [**Foundations of Cybersecurity**](https://www.coursera.org/account/accomplishments/verify/Z6RF0TH2QSCS)
+
 -- [**Fortinet Certified Fundamentals Cybersecurity**](https://www.credly.com/badges/e08f3bc2-930b-4380-b5e5-3519d94be595/public_url)
+
 -- [**API Security Fundamentals**](https://www.credly.com/badges/14169a1f-228b-4ab1-a2a9-99aeb0ca64b8/public_url)
 
 ## 📩 Me Contacter  
